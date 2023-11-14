@@ -1,0 +1,50 @@
+{
+    "0": {
+        "id": 0,
+        "date": "",
+        "teamsHome": {
+            "id": 1,
+            "escudo": "2018/04/10/Flamengo-2018.svg",
+            "name": "Flamengo",
+            "wishes": 0
+        },
+        "teamsOutside": {
+            "id": 2,
+            "escudo": "2021/09/19/Fortaleza_2021_1.svg",
+            "name": "Fortaleza",
+            "wishes": 0
+        }
+    },
+    "1": {
+        "id": 1,
+        "date": "",
+        "teamsHome": {
+            "id": 3,
+            "escudo": "2018/03/11/bahia.svg",
+            "name": "Bahia",
+            "wishes": 0
+        },
+        "teamsOutside": {
+            "id": 4,
+            "escudo": "2019/09/09/Athletico-PR.svg",
+            "name": "Atletico-PR",
+            "wishes": 0
+        }
+    },
+    "2": {
+        "id": 2,
+        "date": "",
+        "teamsHome": {
+            "id": 5,
+            "escudo": "2018/12/26/Cuiaba_EC.svg",
+            "name": "Cuiaba EC",
+            "wishes": 0
+        },
+        "teamsOutside": {
+            "id": 6,
+            "escudo": "2018/03/12/santos.svg",
+            "name": "Santos",
+            "wishes": 0
+        }
+    }
+}
